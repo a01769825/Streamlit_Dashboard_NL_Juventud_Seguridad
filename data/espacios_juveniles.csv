@@ -1,0 +1,16 @@
+espacio_id,espacio_nombre,colonia_id,municipio,lat,lon,tipo,estado
+ESP-001,Cancha deportiva Colonia García 1,COL-001,García,25.805432663624828,-100.59312389801006,Cancha deportiva,Subutilizado
+ESP-002,Centro comunitario Colonia García 2,COL-002,García,25.829119185935067,-100.62460862503683,Cancha deportiva,Abandonado
+ESP-003,Espacio cultural Colonia García 3,COL-003,García,25.79809172161721,-100.58409554026808,Cancha deportiva,Subutilizado
+ESP-004,Espacio cultural Colonia García 4,COL-004,García,25.78773169184418,-100.6129150924428,Cancha deportiva,Activo
+ESP-005,Cancha deportiva Colonia Juárez 2,COL-006,Juárez,25.65324866545867,-100.12399766530814,Cancha deportiva,Abandonado
+ESP-006,Centro comunitario Colonia Juárez 3,COL-007,Juárez,25.6630614715496,-100.11889778487193,Cancha deportiva,Activo
+ESP-007,Cancha deportiva Colonia Juárez 4,COL-008,Juárez,25.649973646293557,-100.08002788893393,Cancha deportiva,Activo
+ESP-008,Biblioteca Colonia General 3,COL-011,General Escobedo,25.776333902405383,-100.31159575856842,Cancha deportiva,Activo
+ESP-009,Espacio cultural Colonia General 4,COL-012,General Escobedo,25.779931838080962,-100.34067889993543,Cancha deportiva,Activo
+ESP-010,Cancha deportiva Colonia Monterrey 1,COL-013,Monterrey (Topo Chico),25.731712140908687,-100.33600202383592,Cancha deportiva,Activo
+ESP-011,Espacio cultural Colonia Monterrey 4,COL-016,Monterrey (Topo Chico),25.74699302134562,-100.3056469397291,Cancha deportiva,Subutilizado
+ESP-012,Centro comunitario Colonia Santa 1,COL-017,Santa Catarina,25.68079080885527,-100.47290344864432,Cancha deportiva,Subutilizado
+ESP-013,Cancha deportiva Colonia Santa 2,COL-018,Santa Catarina,25.684981979761975,-100.46510084470061,Cancha deportiva,Abandonado
+ESP-014,Espacio cultural Colonia Santa 4,COL-020,Santa Catarina,25.6942149133755,-100.4588401693207,Cancha deportiva,Subutilizado
+ESP-015,Centro comunitario Colonia Santa 4,COL-020,Santa Catarina,25.694359994791256,-100.45515355812714,Cancha deportiva,Activo
